@@ -1,0 +1,114 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url('abs-1850926_1920.jpg');
+    height: 1241px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.left{
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    
+    
+    
+}
+.left div{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mid{
+    display: inline-block;
+    
+    width:700px;
+    margin-left: 467px;
+    margin-top: 20px;
+}
+.right{
+    
+    display: inline-block;
+    position: absolute;
+    right: 34px;
+    top: 38px
+
+
+}
+.navbar{
+    display: inline-block;
+}
+.navbar li{
+    display: inline-block;
+    
+}
+.navbar li a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 25px;
+    font-size:20px ;
+}
+.navbar li a:hover,.navbar li a.active{
+    text-decoration: underline;
+    color: grey;
+}
+img{
+    width: 77px;
+    margin-left: 22px;
+}
+.btn{
+    margin-left: 15px;
+    padding: 4px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: black;
+    color: aliceblue;
+     font-style:Tahoma ;
+}
+.btn:hover{
+    background-color: rgb(61, 58, 58);
+}
+
+.container{
+    border: 2px solid green;
+    margin-top: 94px;
+    margin-left: 425px;
+    margin-bottom: 23px;
+    padding-top: 15px;
+    padding-left: 153px;
+    width: 588px;
+    padding-bottom: 81px;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}    
+.forms input{ 
+    text-align: center;
+    display: block;
+    width: 300px;
+    padding: 6px;
+    border: 3px solid black;
+    border-radius: 6px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 11px;
+    margin-left: 90px;
+    font-size: 16px;
+
+}
+.container h1{
+    text-align: center;
+}
+.container button{
+    display: block;
+    width: 159px;
+    margin:55px;
+    margin-left:156px;
+    font-size: 20px;
+
+
+}
+
+
+
